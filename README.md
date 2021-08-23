@@ -11,6 +11,9 @@ The idea is not to trick the candidate but to open a conversation about technica
 The steps are language-independent.
 The steps are based (with very few exceptions) on the daily work we deal with everyday here in Pixart.
 
+## Other options
 
+* [Postcard](./postcard/README.md)
+* [Spiral](./spiral/README.md)
 
 
